@@ -1,0 +1,7 @@
+U¿ycie Autopreiksera w tym konkretnym projekcie: 
+
+autoprefixer-cli -o style.prefixed.css style.css
+
+U¿ycie Nu-html-checkera, aby sprawdza³ wszystkie pliki html
+
+nu-html-checker *.html
