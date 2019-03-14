@@ -1,2 +1,13 @@
+body {
+    background-color: paleturquoise;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Tahoma;
+}
+
+ p {
+     padding: 20px 0;
+     line-height: 2;
+ }
 
     
